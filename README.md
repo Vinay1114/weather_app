@@ -10,6 +10,4 @@ I have used open weather APi key to get the weather location
 6.  And then click on terminal again and choose a new terminal
 7.  In that terminal type cd weather_fronted hit enter
 8.  And then type npm start
-# output of my project
-![Main page](https://drive.google.com/file/d/1vdDdXOqMklgKLmUXtzFMN2lQUOLnnn1A/view?usp=sharing)
-![Result page](https://drive.google.com/file/d/1X3IdIn3xqnKiQzzLS4vUQkxFhaHnSXEp/view?usp=drive_link)
+
